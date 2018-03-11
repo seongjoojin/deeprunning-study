@@ -1,0 +1,19 @@
+구름 클라우드에 파이썬 설치하는 방법
+https://nbviewer.ipython.org/gist/FinanceData/8957c031b200a3079f60581c523028ee
+
+쥬피터 노트북 구동을 위한  방법은 3가지 정도 있는데, 쉬운 난의도 순으로 말씀드리면 1)아나콘다 > 2)가상머신(=클라우즈) > 3)도커 순입니다
+
+파이썬 개발 환경 만들기 개요도
+https://nbviewer.jupyter.org/gist/FinanceData/6251be888f0f5ca49e29270d5cb80d94
+
+딥러닝 수학
+http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
+
+Machine Learning 스터디 (19) Deep Learning - RBM, DBN, CNN
+http://sanghyukchun.github.io/75/
+
+Gradient Descent in a Nutshell
+https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0
+
+Deep Learning Papers Reading Roadmap
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap

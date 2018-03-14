@@ -1,0 +1,7 @@
+http://nbviewer.jupyter.org/gist/KyoungHa-Park/118a4d105881fde95e20c33be9c5a37c
+
+# !pip install --upgrade tensorflow
+
+# !pip install numpy
+# !pip install matplotlib
+# !pip install pillow

@@ -11,7 +11,7 @@
 #### git 마크다운 문법 참고 링크
 
 * [https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/101_Markdown-Basics.md](https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/101_Markdown-Basics.md)
-* [blob/master/document/Sublimetext/docs/102_Github-Flavored-Markdown.md](blob/master/document/Sublimetext/docs/102_Github-Flavored-Markdown.md)
+* [https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/102_Github-Flavored-Markdown.md](https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/102_Github-Flavored-Markdown.md)
 * [https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/103_Writing-on-Github.md](https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/103_Writing-on-Github.md)
 * [https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/104_Mastering-Markdown.md](https://github.com/Crpediem/FrontEndStudy/blob/master/document/Sublimetext/docs/104_Mastering-Markdown.md)
 

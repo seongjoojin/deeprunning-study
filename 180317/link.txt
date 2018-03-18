@@ -1,2 +1,14 @@
-http://nbviewer.jupyter.org/gist/KyoungHa-Park/118a4d105881fde95e20c33be9c5a37c
+박경하님 자료
+http://nbviewer.jupyter.org/gist/KyoungHa-Park/8b885cdf314e910eb5a45f9ae654a190
 
+진성주 자료
+http://nbviewer.jupyter.org/gist/Crpediem/659a303c800f1f81a38c460ced3e1bbc
+
+CNN개념들
+http://cs231n.github.io/convolutional-networks/
+
+CNN데모
+https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
+
+돌려보자!
+http://playground.tensorflow.org

@@ -1,0 +1,17 @@
+cnn 이론
+
+http://nbviewer.jupyter.org/gist/Crpediem/9f9fc3e27cd440a946af9781da100d73
+
+https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59
+
+http://setosa.io/ev/image-kernels/
+
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
+cnn 응용
+
+https://www.clarifai.com/demo
+
+http://www.laonpeople.com/prd_detail.php?idx=8/NAVI%20AI%20트레이너
+
+https://prisma-ai.com

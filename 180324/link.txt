@@ -8,10 +8,10 @@ http://setosa.io/ev/image-kernels/
 
 https://en.wikipedia.org/wiki/Kernel_(image_processing)
 
+https://brohrer.github.io/how_convolutional_neural_networks_work.html
+
 cnn 응용
 
 https://www.clarifai.com/demo
 
 http://www.laonpeople.com/prd_detail.php?idx=8/NAVI%20AI%20트레이너
-
-https://prisma-ai.com

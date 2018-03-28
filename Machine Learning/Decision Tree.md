@@ -50,6 +50,7 @@ Total 8 photos
 
 = 0.543
 
+cartoon 으로 분류할 때의 Infomation Gain 
 ----------------------
 Entropy = - p(+) * log(p(+)) - p(-) * log(p(-))
 
@@ -61,6 +62,7 @@ Inoformation Gain(winter family photo, cartoon)
 
 = 0.138
 
+winter 으로 분류할 때의 Infomation Gain 
 -------------------------
 
 Inoformation Gain(winter family photo, winter)
@@ -71,6 +73,7 @@ Inoformation Gain(winter family photo, winter)
 
 = 0.093
 
+number of preson>1 으로 분류할 때의 Infomation Gain 
 -------------------------
 
 Inoformation Gain(winter family photo, number of preson>1)

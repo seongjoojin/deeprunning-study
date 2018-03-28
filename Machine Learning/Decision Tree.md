@@ -49,6 +49,7 @@ Total 8 photos
 = -(1/8) * log(1/8)-(7/8) * log(7/8)
 
 = 0.543
+
 ----------------------
 Entropy = - p(+) * log(p(+)) - p(-) * log(p(-))
 
@@ -59,6 +60,7 @@ Inoformation Gain(winter family photo, cartoon)
 = 0.543 - (4/8 * E[0+,4-]) + 4/8 * E([1+,3-])
 
 = 0.138
+
 -------------------------
 
 Inoformation Gain(winter family photo, winter)
@@ -68,6 +70,7 @@ Inoformation Gain(winter family photo, winter)
 = 0.543 - (5/8 * E[1+,4-]) + 3/8 * E([0+,3-])
 
 = 0.093
+
 -------------------------
 
 Inoformation Gain(winter family photo, number of preson>1)

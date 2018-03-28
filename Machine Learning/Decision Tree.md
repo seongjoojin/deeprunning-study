@@ -2,6 +2,8 @@
 
 https://youtu.be/n0p0120Gxqk
 
+https://youtu.be/UPKugq0fK04
+
 # 1. 의사결정트리(Decision Tree)
 
 ![Decision Tree](https://i.imgur.com/wcRuv1X.png)

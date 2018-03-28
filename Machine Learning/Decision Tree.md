@@ -37,28 +37,45 @@ img6 | No       | No     | Yes                | No
 img7 | Yes      | No     | Yes                | No
 img8 | Yes      | Yes    | No                 | No
 
+
 Total 8 photos
+
 1 photo winter family photo
+
 7 photo Not winter family photo
+
 = Entropy([1+,7-])
+
 = -(1/8) * log(1/8)-(7/8) * log(7/8)
+
 = 0.543
+
 
 Entropy = - p(+) * log(p(+)) - p(-) * log(p(-))
 
 Inoformation Gain(winter family photo, cartoon)
+
 = E (winter family photo) - E (winter fmaily photo, cartoon)
+
 = 0.543 - (4/8 * E[0+,4-]) + 4/8 * E([1+,3-])
+
 = 0.138
 
+
 Inoformation Gain(winter family photo, winter)
+
 = E (winter family photo) - E (winter fmaily photo, cartoon)
+
 = 0.543 - (5/8 * E[1+,4-]) + 3/8 * E([0+,3-])
+
 = 0.093
 
 Inoformation Gain(winter family photo, number of preson>1)
+
 = E (winter family photo) - E (winter fmaily photo, cartoon)
+
 = 0.543 - (5/8 * E[1+,4-]) + 3/8 * E([0+,3-])
+
 = 0.093
 
 첫번째 속성은 Information Gain이 가장 높은 cartoon으로 지정됩니다.

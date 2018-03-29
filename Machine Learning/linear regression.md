@@ -39,3 +39,14 @@ how to fine least mean square? Gradient Decent!
 
 Cost Function = Mean Square Error 를 최저로 만드는 것을 목표로 합니다.
 
+![대체이미지](https://i.imgur.com/opOk5h9.png)
+
+기존의 θ값에서 learning rate와 mean square error의 값을 뺀 것들 반복하여서 mean square error의 값을 0에 가깝게 합니다.
+
+##### how to decide learning rate?
+
+We must set the learning rate to an appropriate value since learning rate determines how fast or slow we will move toward the optimal θ
+
+If learning rate is very large, we may skip the optimal solution. If learning rate is too small, finding optimal solution will take huge steps.
+
+learning rate를 적절하게 조정해줘야합니다.
